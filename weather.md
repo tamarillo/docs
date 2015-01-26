@@ -21,3 +21,7 @@ Where the city ID is the ID for the city you will get as an information in each 
 ```php
 $cityID = Weather::findCity('Stuttgart'); // 2825297
 ```
+
+
+#### Note
+We actual build der Version 1.0 and will submit it soon to GitHub. Whe are sorry for that.
